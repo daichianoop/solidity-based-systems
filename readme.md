@@ -30,7 +30,7 @@ The repository is primarily focused on helping developers understand smart contr
 ## Features
 
 - **Solidity Smart Contracts**: Learn by exploring different contract implementations in Solidity.
-- **Open Auctions**: Example contracts implementing open auctions on the blockchain.
+- **Open Auctions**: Examples of contracts implementing open auctions on the blockchain.
 - **Decentralized Systems**: Understand decentralized systems and how smart contracts enable trustless transactions.
 - **Interactive with Remix**: All contracts are designed to be easily tested and run using the Remix IDE.
 
